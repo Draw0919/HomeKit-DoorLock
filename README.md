@@ -34,6 +34,18 @@
 ## 3. 流程圖
 ![流程圖.drawio](https://hackmd.io/_uploads/rygrQJBv0.png)
 
+### 想法
+#### 系統Code
+#### 硬體整合
+#### 遠程
+ 1. 感應經過跳通知 mac address 識別
+ 2. 人臉傳送畫面辨認 遠端開門
+:::danger
+
+情境設定:
+- 家庭裝置(限用Wifi環境)
+- 
+:::
 ## 4. 需要軟硬體
 
 ###  說明
@@ -65,17 +77,13 @@
 - Apple Developer Program賬戶（用於開發和測試HomeKit相關功能）
 
 ### 接線流程
-
-1. **ESP32與RFID讀卡器連接**：
-   - 將RFID讀卡器的SDA, SCK, MOSI, 和MISO腳連接到ESP32的對應SPI端口。
-
-2. **ESP32與繼電器模塊連接**：
+1. **ESP32與繼電器模塊連接**：
    - 連接ESP32的一個GPIO腳到繼電器模塊的控制端，以控制門鎖。
 
-3. **連接門鎖和繼電器**：
+2. **連接門鎖和繼電器**：
    - 確保繼電器的輸出端與電子門鎖的控制線相連。
 
-4. **按鈕連接**：
+3. **按鈕連接**：
    - 將按鈕的兩端分別連接到ESP32的一個GPIO腳和地線。
 ### HomeBridge – Door Lock
 ![image](https://hackmd.io/_uploads/SkAzFosL0.png)
@@ -227,19 +235,4 @@ ICshopping
 飆機器人
 米羅科技
 新竹 NOVA 勝特力 (百元電子)
-
-### 想法
-#### 系統Code
-#### 硬體整合
-#### 遠程
- 1. 感應經過跳通知 mac address 識別
- 2. 人臉傳送畫面辨認 遠端開門
-
-
-:::danger
-
-情境設定:
-- 家庭裝置(限用Wifi環境)
-- 
-:::
-### 成果展示(!https://www.canva.com/design/DAF3a37FVqM/XxL4vV_lTCStOicCl2zQSw/edit?utm_content=DAF3a37FVqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### 成果展示(https://www.canva.com/design/DAF3a37FVqM/XxL4vV_lTCStOicCl2zQSw/edit?utm_content=DAF3a37FVqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
