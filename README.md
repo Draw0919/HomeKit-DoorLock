@@ -57,11 +57,6 @@
 - [x] **1/2 麵包板** - 數量: 1
 - [x] **適量杜邦線** - 數量: 若干
 - [ ] [**繼電器**(將esp32 電壓提升至12v)](https://shopee.tw/%E3%80%90AI%E9%9B%BB%E5%AD%90%E3%80%91*(12-1)1%E8%B7%AF%E7%B9%BC%E9%9B%BB%E5%99%A8%E6%A8%A1%E7%B5%84%E5%B8%B6%E5%85%89%E8%80%A6%E9%9A%94%E9%9B%A2-%E9%AB%98%E9%9B%BB%E5%B9%B3%E4%BD%8E%E9%9B%BB%E5%B9%B3%E9%80%9A%E7%94%A8%E6%9D%BF-5V-12V%E7%89%88%E6%9C%AC%E9%83%BD%E6%9C%89-i.26861496.830727299?sp_atk=4796a54e-dc02-4499-9a8b-796521426ee1&xptdk=4796a54e-dc02-4499-9a8b-796521426ee1)
-- [ ] RFID 感應器
-
-
-
-
 ### 需要軟體
 
 - Arduino IDE（用於編寫和上傳ESP32的程式碼）
@@ -224,6 +219,8 @@ https://www.studiopieters.nl/homebridge-door-lock/
 https://www.studiopieters.nl/esp-homekit-sdk-flash/
 https://www.studiopieters.nl/esp8266-homekit-lock/
 https://github.com/AchimPieters/Apple-Homebridge-Door-Lock
+https://files.soyal.com.tw/TW/download/protocol/Protocol_881E_725Ev2_82xEv5%204V04.pdf
+https://www.make.com/en
 
 ### 採購來源
 ICshopping 
@@ -245,3 +242,4 @@ ICshopping
 - 家庭裝置(限用Wifi環境)
 - 
 :::
+### 成果展示(!https://www.canva.com/design/DAF3a37FVqM/XxL4vV_lTCStOicCl2zQSw/edit?utm_content=DAF3a37FVqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
