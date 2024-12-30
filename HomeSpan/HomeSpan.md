@@ -9,3 +9,4 @@ HomeSpan是一個強大且極其易於使用的 Arduino 庫，用於完全在Ard
 HAP-R2指的是HomeKit Accessory Protocol Revision 2，也就是HomeKit所需要的協議，使我們可以正常在apple家庭功能中使用
 4. 38 項整合 HomeKit 服務
 5. 可在附件模式或橋接模式下運作
+![HomeSpan](https://github.com/Draw0919/HomeKit-DoorLock/blob/main/HomeSpan/HomeSpan.png)
