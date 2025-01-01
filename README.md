@@ -83,15 +83,12 @@
 
 3. **按鈕連接**：
    - 將按鈕的兩端分別連接到ESP32的一個GPIO腳和地線。
-### HomeBridge – Door Lock
-![image](https://hackmd.io/_uploads/SkAzFosL0.png)
-### ESP8266 – Homekit Lock
-![image](https://hackmd.io/_uploads/BJYFFiiIA.png)
 
 ### 成果
 ![IMG_0168](https://hackmd.io/_uploads/BygwcVgryg.png)
 ![IMG_0169](https://hackmd.io/_uploads/ryzv54xSJx.png)
 ![3333](https://hackmd.io/_uploads/rJEPqElr1x.jpg)
+![image](https://github.com/user-attachments/assets/70b00389-d293-4743-bec1-408fc3717331)
 
 
 
